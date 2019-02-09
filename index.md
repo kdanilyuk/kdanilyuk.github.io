@@ -1,9 +1,7 @@
 ![Image](photo.jpg)
-## Welcome to GitHub Pages
+## ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/kdanilyuk/kdanilyuk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! My name is Konstantin Danilyuk. I am a second year student of the Belarusian National Technical University. At university I learn programming. I really like to play sports. I also enjoy watching movies.
 
 ### Markdown
 
