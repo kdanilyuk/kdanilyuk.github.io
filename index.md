@@ -1,3 +1,4 @@
+![Image](photo.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kdanilyuk/kdanilyuk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,7 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image](photo.jpg)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
