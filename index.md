@@ -1,37 +1,15 @@
 ![Image](photo.jpg)
 ## ABOUT ME
 
-Hello! My name is Konstantin Danilyuk. I am a second year student of the Belarusian National Technical University. At university I learn programming. I really like to play sports. I also enjoy watching movies.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Hello! My name is Konstantin Danilyuk. I am a second year student of the Belarusian National Technical University. I'm a software engineer by profession. Also speak English at an pre-intermediate level. I am fond of **self-education** and I think this is the best way to study any science. At university I learn programming. 
+Here are a few languages that I learned while studying at the university:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- _C#_
+- _Python_
+- _C++_
+- _Java_
 ```
+## INTERESTS
 
+I love to play sports since childhood. Sport helps me to rest my head and put my body in order. I also enjoy watching movies and videos.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kdanilyuk/kdanilyuk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
