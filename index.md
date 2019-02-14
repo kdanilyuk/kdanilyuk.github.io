@@ -1,4 +1,4 @@
-![Image](photo.jpg){:height="193px" width="193px"}.
+![Image](photo.jpg)
 
 ## ABOUT ME
 
