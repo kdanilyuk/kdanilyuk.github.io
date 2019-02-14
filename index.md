@@ -1,5 +1,4 @@
-<a href="url"><img src="photo.jpg" align="left" height="200" width="200" ></a>
-![Image](photo.jpg)
+<a href="url"><img src="photo.jpg" align="left" height="193" width="193" ></a>
 ## ABOUT ME
 
 Like all guys, I started learning programming at school on the subject of computer science. And my very first programming language was Pascal. Also at school I got acquainted with html and css. Since then I am interested in programming. In the future, I experimented with many areas of programming. I began to take more conscious steps in the second year of university, when I decided on the direction of development. My choice fell on the web.
