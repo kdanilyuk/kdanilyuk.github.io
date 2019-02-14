@@ -1,3 +1,4 @@
+<a href="url"><img src="photo.jpg" align="left" height="200" width="200" ></a>
 ![Image](photo.jpg)
 ## ABOUT ME
 
