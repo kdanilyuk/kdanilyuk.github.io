@@ -19,15 +19,15 @@ Of course, I do sports. Without this, I can not imagine free life. Sport helps m
 
 ## WORK EXAMPLES
 
-[Simple calculator](https://github.com/kdanilyuk/FancyCalc)
-[Task 1](https://github.com/kdanilyuk/PadawansTask1)
-[Task 2](https://github.com/kdanilyuk/PadawansTask2)
-[Task 3](https://github.com/kdanilyuk/PadawansTask3)
-[Task 4](https://github.com/kdanilyuk/PadawansTask4)
-[Task 5](https://github.com/kdanilyuk/PadawansTask5)
-[Task 7](https://github.com/kdanilyuk/PadawansTask7)
-[Task 8](https://github.com/kdanilyuk/PadawansTask8)
-[Task 9](https://github.com/kdanilyuk/PadawansTask9)
-[Task 10](https://github.com/kdanilyuk/PadawansTask10)
-[Task 12](https://github.com/kdanilyuk/PadawansTask12)
+[Simple calculator](https://github.com/kdanilyuk/FancyCalc)  
+[Task 1](https://github.com/kdanilyuk/PadawansTask1)  
+[Task 2](https://github.com/kdanilyuk/PadawansTask2)  
+[Task 3](https://github.com/kdanilyuk/PadawansTask3)  
+[Task 4](https://github.com/kdanilyuk/PadawansTask4)  
+[Task 5](https://github.com/kdanilyuk/PadawansTask5)  
+[Task 7](https://github.com/kdanilyuk/PadawansTask7)   
+[Task 8](https://github.com/kdanilyuk/PadawansTask8)   
+[Task 9](https://github.com/kdanilyuk/PadawansTask9)   
+[Task 10](https://github.com/kdanilyuk/PadawansTask10)   
+[Task 12](https://github.com/kdanilyuk/PadawansTask12)   
 
