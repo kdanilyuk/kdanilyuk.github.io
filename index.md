@@ -19,5 +19,5 @@ Of course, I do sports. Without this, I can not imagine free life. Sport helps m
 
 ## WORK EXAMPLES
 
-_Coming soon..._
+https://github.com/kdanilyuk/FancyCalc
 
