@@ -6,7 +6,7 @@ Like all guys, I started learning programming at school on the subject of comput
 The last few months I have been studying it. 
 I delve into learning C # programming language and also doing various exercises.
 
-In addition to programming I learn English. From a young age, I set out to speak fluently in a foreign language and still do it.
+In addition to programming I learn English. From a young age, I set out to speak fluently in a foreign language and still do it. At the moment I practice my English quite often, due to the need to quickly disassemble and solve tasks.
 
 ## EDUCATION
 
