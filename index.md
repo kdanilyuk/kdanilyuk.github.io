@@ -17,7 +17,7 @@ Belarusian National Technical University, Sep 2017 – Present Faculty of Inform
 Most of my free time I try to give reading. In particular, I like the direction of biographies of people, which tells about views on life, beliefs and values.
 Of course, I do sports. Without this, I can not imagine free life. Sport helps me to rest my head and put my body in order.
 
-## Links
+## LINKS
 
 [Codewars profile](https://www.codewars.com/users/kdanilyuk)  
 
