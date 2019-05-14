@@ -23,4 +23,5 @@ Of course, I do sports. Without this, I can not imagine free life. Sport helps m
 
 ## WORK EXAMPLES
 
-Coming soon...
+[Computer systems and networks(Server)](https://github.com/kdanilyuk/CourseCS-N_server)
+[Computer systems and networks(Client)](https://github.com/kdanilyuk/CourseCS-N_client)
